@@ -1,0 +1,10 @@
+
+assignments/freq/*.z
+
+intopt/intopt/test/*
+intopt/linux/*
+intopt/macos/*
+intopt/simplex/*
+intopt/intopt.in
+intopt/simplex.in
+sim_ppc

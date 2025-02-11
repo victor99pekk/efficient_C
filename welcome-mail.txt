@@ -1,0 +1,36 @@
+Hello!
+
+Welcome to EDAG01! Here comes some important info about the course!
+
+Lectures are in MA:4 at 10-12 on Wednesdays and Fridays.
+
+The files for the course can be found at: https://web.tresorit.com/l/ptHxi#VM_B0qgLT3fYxkLCCAKp9g
+
+What you need to do to pass the course is to do the labs (see labs.pdf), the assignments rpn, freq, poly, upload intopt to https://forsete.cs.lth.se and an oral exam (any day after you have done the compulsory parts and before Midsummer next year but you can sign up today if you want to).
+
+The Discord-server is at: https://discord.gg/ZTxQ8Qj5WK
+
+If you want to ask me something, I have office hours in Zoom or E:2190 every day. Book at: https://calendly.com/forsete
+
+There you book a time for oral exam as well (you can book it any day and reschedule as needed and take it when all labs are passed.
+
+You can sign up for labs here: https://sam.cs.lth.se/LabsSelectSession?occasionId=886
+
+If you want to work solo, please write that in #solo-laboranter on Discord and sign up with some other person who wants to work solo. You don't need to present the labs together.
+
+I once made youtube videos for the course but they are not officially part of the course since they are not updated.
+You can find their playlists here: https://jonasskeppstedt.net/efficient-c
+
+The course book can be found here: https://www.amazon.se/Writing-Efficient-Code-thorough-introduction/dp/1659599202
+
+You can use ssh stilid@power.cs.lth.se to login to the POWER8 machine for the labs.
+
+You must be on a LU network (or VPN) to access the POWER8 machine.
+
+Later, you will be able to upload C-solutions to https://forsete.cs.lth.se and then use the same id and password.
+
+You do not need to use the forsete for the labs.
+
+Have fun!
+
+Jonas
