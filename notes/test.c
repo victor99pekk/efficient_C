@@ -6,9 +6,10 @@ int func(int c[3][4])
     printf("%zu %zu\n", sizeof c, sizeof c[0]);
 }
 int main() {
-    int arr[3][4] = {0}; // Initialize a 3x4 array
+    
+    int c = 87 + 10;
 
-    func(arr);
+    printf("%c\n", c);
 
     return 0;
 }
